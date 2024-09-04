@@ -54,7 +54,7 @@ body{
 
     nav .container ul li a{
         color: black;
-        padding: 15px;
+        padding: 5px;
         text-decoration: none;
     }nav .container ul li a:hover{
         color: rgb(255,151,78);
